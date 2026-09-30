@@ -1,5 +1,7 @@
 # 📊 Desafio de Projeto: Processamento de Dados com Power BI e Microsoft Fabric
 
+<img width="1505" height="670" alt="Processamento de Dados com Power BI e Microsoft Fabric" src="https://github.com/user-attachments/assets/9b6a92a0-05df-40bc-bd12-fbe10667f166" />
+
 Este repositório contém a resolução do desafio de projeto focado em Processamento e Transformação de Dados, originalmente parte da formação Power BI Analyst. Como inovação técnica, os dados foram hospedados e processados utilizando o **Microsoft Fabric**, aproveitando as tecnologias de **Lakehouse** e **Dataflow Gen2**.
 
 ## 🚀 Tecnologias Utilizadas
